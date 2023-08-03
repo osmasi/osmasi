@@ -38,3 +38,4 @@ Here are some ideas to get you started:
   <img align="center" alt="JustTroll-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
+![Snake animation](https://github.com/osmasi/osmasi/blob/output/github-contribution-grid-snake.svg)
