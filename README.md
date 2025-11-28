@@ -1,6 +1,7 @@
 # 🌟 Olá! Seja bem-vindo ao meu GitHub
 
 Sou Osmar, desenvolvedor apaixonado por tecnologia, automação e soluções que facilitam o dia a dia.
+
 Aqui você vai encontrar projetos em Django, Python, PHP (CakePHP), automações, scripts, sistemas e muito mais 🚀
 
 ## 👨‍💻 Sobre mim
